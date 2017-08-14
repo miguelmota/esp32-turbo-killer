@@ -2,7 +2,7 @@
 
 > Plays short melody of [Turbo Killer](https://www.youtube.com/watch?v=wy9r2qeouiQ) by [Carpenter Brut](https://en.wikipedia.org/wiki/Carpenter_Brut) on the [ESP32 HackerBox 0020](https://www.instructables.com/id/HackerBoxes-0020-Summer-Camp/)
 
-<img src="https://github.com/miguelmota/esp32-turbo-killer/blob/master/screenshot.jpg?raw=true" width="600">
+<img src="https://github.com/miguelmota/esp32-turbo-killer/blob/master/screenshot.jpg?raw=true" width="500">
 
 
 
