@@ -10,6 +10,8 @@
 
 - [HackerBoxes 0020: Summer Camp](https://www.instructables.com/id/HackerBoxes-0020-Summer-Camp/)
 
+- [Arduino core for ESP32](https://github.com/espressif/arduino-esp32)
+
 - [Adafruit NeoPixel library](https://github.com/adafruit/Adafruit_NeoPixel)
 
 - [Adafruit GFX library](https://github.com/adafruit/Adafruit-GFX-Library)
